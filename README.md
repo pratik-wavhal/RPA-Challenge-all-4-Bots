@@ -1,5 +1,4 @@
 # RPA-Challenge-all-4-Bots
-Soon will Upload 
 
 This Repository Will Contain All The Challenges offered by :- http://www.rpachallenge.com/
 
